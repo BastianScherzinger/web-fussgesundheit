@@ -1,36 +1,104 @@
 {
-  "site_name": "Muster Handwerk",
-  "headline": "Handwerk, auf das Sie sich verlassen können",
-  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
-  "akzent": "#c8102e",
-  "branche": "Handwerk",
-  "stadt": "",
+  "site_name": "Fußgesundheit",
+  "branche": "Podologe",
+  "stadt": "Künzelsau",
   "telefon": "",
   "email": "",
-  "adresse": "",
-  "ueber_titel": "Über uns",
-  "ueber_text": "Seit Jahren Ihr verlässlicher Partner in der Region. Wir verbinden traditionelles Handwerk mit moderner Ausführung.",
+  "adresse": "Friedenstr. 3 74613 Öhringen",
+  "akzent": "#FFD700",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Sorgfältige Fußpflege in Künzelsau",
+  "subline": "Entdecken Sie die Komfort und Hygiene bei uns.",
+  "ueber_titel": "Ihr Partner für gesunde Füße",
+  "ueber_text": "Seit vielen Jahren bieten wir in Künzelsau und Umgebung hochwertige Podologische Dienstleistungen an. Unsere Erfahrung und Kenntnis im Bereich Fußgesundheit machen uns zu einem vertrauenswürdigen Partner für alle Ihre Fußprobleme. Wir legen großen Wert auf individuelle Betreuung und zufriedene Kunden.",
   "leistungen": [
     {
-      "titel": "Beratung",
-      "text": "Persönlich, ehrlich und auf Ihr Projekt zugeschnitten."
+      "titel": "Fußpflege",
+      "text": "Professionelle Fußpflege für eine angenehme und gesunde Haut."
     },
     {
-      "titel": "Ausführung",
-      "text": "Saubere, termintreue Arbeit mit Liebe zum Detail."
+      "titel": "Fußverletzungsbehandlung",
+      "text": "Spezialisierte Behandlungen für verschiedene Fußprobleme."
     },
     {
-      "titel": "Service",
-      "text": "Auch nach Abschluss für Sie da — ein fester Ansprechpartner."
+      "titel": "Orthopädische Schuhe",
+      "text": "Personalisierte Anfertigung von orthopädischen Schuhen zur Verbesserung der Beweglichkeit."
+    },
+    {
+      "titel": "Fußgelenkstherapie",
+      "text": "Therapeutische Maßnahmen für Fuß- und Beinprobleme."
+    },
+    {
+      "titel": "Fußschmerzbehandlung",
+      "text": "Effektive Behandlungen gegen Fußschmerzen."
+    },
+    {
+      "titel": "Fußnagelpflege",
+      "text": "Sorgfältige Pflege der Fußnägel zur Verhinderung von Problemen."
     }
   ],
-  "fotos": [],
-  "cta_text": "Jetzt unverbindlich anfragen",
-  "seo_title": "Muster Handwerk",
-  "seo_desc": "Qualität aus Ihrer Region.",
+  "cta_text": "Termin vereinbaren",
+  "seo_title": "Podologe in Künzelsau - Fußgesundheit",
+  "seo_desc": "Fußgesundheit bietet qualitativ hochwertige Podologiedienstleistungen in Künzelsau. Komfort und Hygiene sind unser oberstes Ziel.",
   "jahr": 2026,
   "hero_source": "template",
-  "hero_refresh_version": 7,
-  "hero_image": "/static/img/hero.png",
-  "hero_template": "physio.jpg"
+  "hero_template": "physio.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Kleiner Auftrag",
+        "ab": 150,
+        "bis": 600
+      },
+      {
+        "name": "Mittleres Projekt",
+        "ab": 600,
+        "bis": 3000
+      },
+      {
+        "name": "Großes Projekt",
+        "ab": 3000,
+        "bis": 15000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Fraunces",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true,
+  "faq": [
+    {
+      "frage": "Wie oft sollte man sich von einem Podologen behandeln lassen?",
+      "antwort": "Die Häufigkeit hängt von der persönlichen Situation ab, aber ein regelmäßiger Besuch alle 6-8 Wochen ist empfehlenswert."
+    },
+    {
+      "frage": "Was passiert bei einer Fußpflege-Sitzung?",
+      "antwort": "Wir führen eine detaillierte Untersuchung durch und bieten eine professionelle Pflege an."
+    },
+    {
+      "frage": "Bietet Ihr Podologe auch Behandlungen für spezielle Fußprobleme an?",
+      "antwort": "Ja, wir behandeln verschiedene Probleme wie Pilzinfektionen oder Fußballen."
+    },
+    {
+      "frage": "Wie lange dauert eine Behandlung bei Ihnen?",
+      "antwort": "Die Dauer hängt von der Art der Behandlung ab und kann zwischen 30 Minuten bis einer Stunde variieren."
+    }
+  ],
+  "trust": [
+    "Erfahrenes Team",
+    "Individuelle Betreuung",
+    "Regionale Präsenz in Künzelsau",
+    "Zufriedene Kunden"
+  ],
+  "content_enriched": true
 }
