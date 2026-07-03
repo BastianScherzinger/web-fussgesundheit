@@ -100,5 +100,10 @@
     "Regionale Präsenz in Künzelsau",
     "Zufriedene Kunden"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "fotos_graded": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
